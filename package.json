@@ -5,9 +5,12 @@
   "description": "A short description of your syntax theme",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "emacs",
+    "spacemacs",
+    "dark"
   ],
-  "repository": "https://github.com/atom/spacemacs-dark",
+  "repository": "https://github.com/bcoop713/spacemacs-dark-syntax-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
