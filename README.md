@@ -1,4 +1,4 @@
-# spacemacs-dark theme
+# spacemacs-dark-syntax theme
 
 This is an atom adaption of one of my all time favorite themes, Spacemacs Dark for Emacs.
 
