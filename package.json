@@ -1,7 +1,7 @@
 {
   "name": "spacemacs-dark-syntax",
   "theme": "syntax",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "This is an atom adaption of one of my all time favorite themes, Spacemacs Dark for Emacs.",
   "keywords": [
     "syntax",
